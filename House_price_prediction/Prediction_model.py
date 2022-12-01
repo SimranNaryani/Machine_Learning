@@ -1,5 +1,9 @@
-# Dataset used: Boston Housing Dataset
+"""
+House price prediction using Boston dataset
+Code by: Simran Naryani
+"""
 
+# Importing required libraries
 import numpy as np 
 import pandas as pd 
 import os
